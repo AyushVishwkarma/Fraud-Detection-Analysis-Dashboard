@@ -52,7 +52,7 @@ Performed data cleaning and feature engineering using Python:
 
 ## Dashboard Preview
 
-![Dashboard](Screenshot 2026-05-07 131326.png)
+![Dashboard](Screenshot%202026-05-07%20131326.png)
 
 ---
 
