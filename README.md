@@ -1,4 +1,4 @@
-# Credit Card Fraud Analysis Dashboard
+# Fraud Detection Analysis Dashboard
 
 ## Project Overview
 This project analyzes credit card transaction data to identify fraud patterns based on transaction amount, category, location, and transaction time. The objective is to support fraud monitoring and business decision-making using an interactive Power BI dashboard.
